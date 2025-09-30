@@ -15,5 +15,4 @@ Qué hace el código:
 - Limpia datos (quita nulos y rellena países vacíos).
 - Guarda resultados en archivos Excel (movies_completo.xlsx, movies_basico.xlsx, analisis_por_pais.xlsx).
 
-Resultados
-- Con este script podés ver cuántas películas hay por país, director, década, cuáles tienen mejor puntaje IMDB y exportar todo a Excel.
+
